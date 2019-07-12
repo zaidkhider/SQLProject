@@ -1,0 +1,1 @@
+SELECT CompanyName, ContactName, City, Phone  FROM Customers WHERE Fax is NULL
